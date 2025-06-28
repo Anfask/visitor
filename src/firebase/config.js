@@ -5,13 +5,13 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAa5PbXoSZo2n1_xW4gZILxX8P6DHOhKcY",
-  authDomain: "visitors-management-dc069.firebaseapp.com",
-  projectId: "visitors-management-dc069",
-  storageBucket: "visitors-management-dc069.firebasestorage.app",
-  messagingSenderId: "378311377800",
-  appId: "1:378311377800:web:0b3c0acba60605166df03d",
-  measurementId: "G-MJX4E05PDT"
+  apiKey: "",
+  authDomain: "",
+  projectId: "v",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
